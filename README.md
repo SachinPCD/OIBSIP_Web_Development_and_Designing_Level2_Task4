@@ -8,6 +8,7 @@
 
 ## Project Overview
 
+## [![Click Here](https://img.shields.io/badge/Click_Here-Live_App-00bfa6)](https://sachinpcd.github.io/OIBSIP_Web_Development_and_Designing_Level2_Task4/)
 This project demonstrates a **login authentication system** created as part of the Oasis Infobyte "Web Development and Designing" internship task.  
 Users can securely **register**, **login**, and access a protected dashboard section. The system is entirely client-side, leveraging HTML, CSS, and JavaScript for data validation, flow management, and secure local credential storage. It provides practical experience in user authentication methodologies and workflow.
 
